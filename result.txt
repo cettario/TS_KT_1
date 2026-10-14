@@ -1,0 +1,13 @@
+Name: Paul McCartney, Login: paul
+Name: John Lennon, Login: john, Role: admin
+Всего обычных пользователей: 3
+Всего супер-пользователей: 1
+false
+true
+true
+Ringo Starr
+********
+george
+Невозможно изменить логин!
+Неизвестное свойство grade
+Неизвестное свойство grade
